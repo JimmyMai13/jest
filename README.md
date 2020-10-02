@@ -18,7 +18,7 @@ Running with concurrent improves test execution for parallel testing. When runni
 
 To run this one time setup :
 
--```npx jest --config=jest.config.js tests/setup/setup-tests.js```
+- ```npx jest --config=jest.config.js tests/setup/setup-tests.js```
 
 If there is strong desire to run with before/after blocks, can uncomment the beforeAll block and remove ".concurrent" from file to run tests sequentially.
 
