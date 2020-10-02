@@ -1,0 +1,287 @@
+{
+  "createUserTestData": [
+    {
+      "email": "john.doe@auth0.com",
+      "user_metadata": {"userMetadataKey": "userMetadataValue1"},
+      "blocked": false,
+      "email_verified": false,
+      "app_metadata": {"appMetadataKey":  "appMetadataValue1"},
+      "given_name": "John",
+      "family_name": "Doe",
+      "name": "John Doe",
+      "nickname": "Johnny",
+      "picture": "https://secure.gravatar.com/avatar/15626c5e0c749cb912f9d1ad48dba440?s=480&r=pg&d=https%3A%2F%2Fssl.gstatic.com%2Fs2%2Fprofiles%2Fimages%2Fsilhouette80.png",
+      "user_id": "johnnydoe123",
+      "connection": "",
+      "password": "Secret12345!",
+      "verify_email": false
+    },
+    {
+      "email": "billy.john@auth0.com",
+      "user_metadata": {"userMetadataKey": "userMetadataValue2"},
+      "blocked": false,
+      "email_verified": false,
+      "app_metadata": {"appMetadataKey":  "appMetadataValue2"},
+      "given_name": "Billy",
+      "family_name": "john",
+      "name": "Billy john",
+      "nickname": "Bill",
+      "picture": "https://secure.gravatar.com/avatar/15626c5e0c749cb912f9d1ad48dba440?s=480&r=pg&d=https%3A%2F%2Fssl.gstatic.com%2Fs2%2Fprofiles%2Fimages%2Fsilhouette80.png",
+      "user_id": "billyjohn21245",
+      "connection": "",
+      "password": "Secret12345!",
+      "verify_email": false
+    },
+    {
+      "email": "luke.knox@auth0.com",
+      "user_metadata": {"userMetadataKey": "userMetadataValue3"},
+      "blocked": false,
+      "email_verified": false,
+      "app_metadata": {"appMetadataKey":  "appMetadataValue3"},
+      "given_name": "Luke",
+      "family_name": "Knox",
+      "name": "Luke Knox",
+      "nickname": "Luke",
+      "picture": "https://secure.gravatar.com/avatar/15626c5e0c749cb912f9d1ad48dba440?s=480&r=pg&d=https%3A%2F%2Fssl.gstatic.com%2Fs2%2Fprofiles%2Fimages%2Fsilhouette80.png",
+      "user_id": "LukeKnox423",
+      "connection": "",
+      "password": "Secret12345!",
+      "verify_email": false
+    },
+    {
+      "email": "Gabrielle.Lambert@auth0.com",
+      "user_metadata": {"userMetadataKey": "userMetadataValue4"},
+      "blocked": false,
+      "email_verified": false,
+      "app_metadata": {"appMetadataKey":  "appMetadataValue4"},
+      "given_name": "Gabrielle",
+      "family_name": "Lambert",
+      "name": "Gabrielle Lambert",
+      "nickname": "Gabby",
+      "picture": "https://secure.gravatar.com/avatar/15626c5e0c749cb912f9d1ad48dba440?s=480&r=pg&d=https%3A%2F%2Fssl.gstatic.com%2Fs2%2Fprofiles%2Fimages%2Fsilhouette80.png",
+      "user_id": "GabrielleLambert",
+      "connection": "",
+      "password": "Secret12345!",
+      "verify_email": false
+    },
+    {
+      "email": "Emily.Parr@auth0.com",
+      "user_metadata": {"userMetadataKey": "userMetadataValue5"},
+      "blocked": false,
+      "email_verified": false,
+      "app_metadata": {"appMetadataKey":  "appMetadataValue5"},
+      "given_name": "Emily",
+      "family_name": "Parr",
+      "name": "Emily Parr",
+      "nickname": "Emily",
+      "picture": "https://secure.gravatar.com/avatar/15626c5e0c749cb912f9d1ad48dba440?s=480&r=pg&d=https%3A%2F%2Fssl.gstatic.com%2Fs2%2Fprofiles%2Fimages%2Fsilhouette80.png",
+      "user_id": "EmilyParr1242",
+      "connection": "",
+      "password": "Secret12345!",
+      "verify_email": false
+    },
+    {
+      "email": "Alexander.Arnold@auth0.com",
+      "user_metadata": {"userMetadataKey": "userMetadataValue6"},
+      "blocked": false,
+      "email_verified": false,
+      "app_metadata": {"appMetadataKey":  "appMetadataValue6"},
+      "given_name": "Alexander",
+      "family_name": "Arnold",
+      "name": "Alexander Arnold",
+      "nickname": "Alex",
+      "picture": "https://secure.gravatar.com/avatar/15626c5e0c749cb912f9d1ad48dba440?s=480&r=pg&d=https%3A%2F%2Fssl.gstatic.com%2Fs2%2Fprofiles%2Fimages%2Fsilhouette80.png",
+      "user_id": "AlexanderArnold524",
+      "connection": "",
+      "password": "Secret12345!",
+      "verify_email": false
+    },
+    {
+      "email": "Nicholas.Pullman@auth0.com",
+      "user_metadata": {"userMetadataKey": "userMetadataValue7"},
+      "blocked": false,
+      "email_verified": false,
+      "app_metadata": {"appMetadataKey":  "appMetadataValue7"},
+      "given_name": "Nicholas",
+      "family_name": "Pullman",
+      "name": "Nicholas Pullman",
+      "nickname": "Nick",
+      "picture": "https://secure.gravatar.com/avatar/15626c5e0c749cb912f9d1ad48dba440?s=480&r=pg&d=https%3A%2F%2Fssl.gstatic.com%2Fs2%2Fprofiles%2Fimages%2Fsilhouette80.png",
+      "user_id": "NicholasPullman",
+      "connection": "",
+      "password": "Secret12345!",
+      "verify_email": false
+    },
+    {
+      "email": "Rose.Mackay@auth0.com",
+      "user_metadata": {"userMetadataKey": "userMetadataValue9"},
+      "blocked": false,
+      "email_verified": false,
+      "app_metadata": {"appMetadataKey":  "appMetadataValue9"},
+      "given_name": "Rose",
+      "family_name": "Mackay",
+      "name": "Rose Mackay",
+      "nickname": "Rosy",
+      "picture": "https://secure.gravatar.com/avatar/15626c5e0c749cb912f9d1ad48dba440?s=480&r=pg&d=https%3A%2F%2Fssl.gstatic.com%2Fs2%2Fprofiles%2Fimages%2Fsilhouette80.png",
+      "user_id": "RoseMackay",
+      "connection": "",
+      "password": "Secret12345!",
+      "verify_email": false
+    },
+    {
+      "email": "Donna.Graham@auth0.com",
+      "user_metadata": {"userMetadataKey": "userMetadataValue10"},
+      "blocked": false,
+      "email_verified": false,
+      "app_metadata": {"appMetadataKey":  "appMetadataValue10"},
+      "given_name": "Donna",
+      "family_name": "Graham",
+      "name": "Donna Graham",
+      "nickname": "Donna",
+      "picture": "https://secure.gravatar.com/avatar/15626c5e0c749cb912f9d1ad48dba440?s=480&r=pg&d=https%3A%2F%2Fssl.gstatic.com%2Fs2%2Fprofiles%2Fimages%2Fsilhouette80.png",
+      "user_id": "DonnaGraham",
+      "connection": "",
+      "password": "Secret12345!",
+      "verify_email": false
+    },
+    {
+      "email": "Olivia.Clarkson@auth0.com",
+      "user_metadata": {"userMetadataKey": "userMetadataValue11"},
+      "blocked": false,
+      "email_verified": false,
+      "app_metadata": {"appMetadataKey":  "appMetadataValue11"},
+      "given_name": "Olivia",
+      "family_name": "Clarkson",
+      "name": "Olivia Clarkson",
+      "nickname": "Olivia",
+      "picture": "https://secure.gravatar.com/avatar/15626c5e0c749cb912f9d1ad48dba440?s=480&r=pg&d=https%3A%2F%2Fssl.gstatic.com%2Fs2%2Fprofiles%2Fimages%2Fsilhouette80.png",
+      "user_id": "OliviaClarkson",
+      "connection": "",
+      "password": "Secret12345!",
+      "verify_email": false
+    }
+  ],
+  "testUserSearch": [
+    [{"name":"john doe"}, {"responseBody": [
+      {
+        "blocked": false,
+        "created_at": "2020-10-02T03:22:08.909Z",
+        "email": "john.doe@auth0.com",
+        "email_verified": false,
+        "family_name": "Doe",
+        "given_name": "John",
+        "identities": [
+          {
+            "user_id": "johnnydoe123",
+            "connection": "myConnection",
+            "provider": "auth0",
+            "isSocial": false
+          }
+        ],
+        "name": "John Doe",
+        "nickname": "Johnny",
+        "picture": "https://secure.gravatar.com/avatar/15626c5e0c749cb912f9d1ad48dba440?s=480&r=pg&d=https%3A%2F%2Fssl.gstatic.com%2Fs2%2Fprofiles%2Fimages%2Fsilhouette80.png",
+        "updated_at": "2020-10-02T03:22:08.909Z",
+        "user_id": "auth0|johnnydoe123",
+        "user_metadata": {
+          "userMetadataKey": "userMetadataValue1"
+        },
+        "app_metadata": {
+          "appMetadataKey": "appMetadataValue1"
+        }
+      }
+    ],
+      "statusCode": 200}
+    ],
+    [{"name":"*john*"}, {"responseBody": [
+      {
+        "blocked": false,
+        "created_at": "2020-10-02T14:57:08.308Z",
+        "email": "billy.john@auth0.com",
+        "email_verified": false,
+        "family_name": "john",
+        "given_name": "Billy",
+        "identities": [
+          {
+            "user_id": "billyjohn21245",
+            "connection": "testing",
+            "provider": "auth0",
+            "isSocial": false
+          }
+        ],
+        "name": "Billy john",
+        "nickname": "Bill",
+        "picture": "https://secure.gravatar.com/avatar/15626c5e0c749cb912f9d1ad48dba440?s=480&r=pg&d=https%3A%2F%2Fssl.gstatic.com%2Fs2%2Fprofiles%2Fimages%2Fsilhouette80.png",
+        "updated_at": "2020-10-02T14:57:08.308Z",
+        "user_id": "auth0|billyjohn21245",
+        "user_metadata": {
+          "userMetadataKey": "userMetadataValue2"
+        },
+        "app_metadata": {
+          "appMetadataKey": "appMetadataValue2"
+        }
+      },
+      {
+        "blocked": false,
+        "created_at": "2020-10-02T14:57:05.318Z",
+        "email": "john.doe@auth0.com",
+        "email_verified": false,
+        "family_name": "Doe",
+        "given_name": "John",
+        "identities": [
+          {
+            "user_id": "johnnydoe123",
+            "connection": "myConnection",
+            "provider": "auth0",
+            "isSocial": false
+          }
+        ],
+        "name": "John Doe",
+        "nickname": "Johnny",
+        "picture": "https://secure.gravatar.com/avatar/15626c5e0c749cb912f9d1ad48dba440?s=480&r=pg&d=https%3A%2F%2Fssl.gstatic.com%2Fs2%2Fprofiles%2Fimages%2Fsilhouette80.png",
+        "updated_at": "2020-10-02T14:57:05.318Z",
+        "user_id": "auth0|johnnydoe123",
+        "user_metadata": {
+          "userMetadataKey": "userMetadataValue1"
+        },
+        "app_metadata": {
+          "appMetadataKey": "appMetadataValue1"
+        }
+      }
+    ],
+    "statusCode": 200}
+    ],
+    [{"email":  "Gabrielle.Lambert@auth0.com"}, {"responseBody": [
+      {
+        "blocked": false,
+        "created_at": "2020-10-02T14:57:10.382Z",
+        "email": "gabrielle.lambert@auth0.com",
+        "email_verified": false,
+        "family_name": "Lambert",
+        "given_name": "Gabrielle",
+        "identities": [
+          {
+            "user_id": "GabrielleLambert",
+            "connection": "Username-Password-Authentication",
+            "provider": "auth0",
+            "isSocial": false
+          }
+        ],
+        "name": "Gabrielle Lambert",
+        "nickname": "Gabby",
+        "picture": "https://secure.gravatar.com/avatar/15626c5e0c749cb912f9d1ad48dba440?s=480&r=pg&d=https%3A%2F%2Fssl.gstatic.com%2Fs2%2Fprofiles%2Fimages%2Fsilhouette80.png",
+        "updated_at": "2020-10-02T14:57:10.382Z",
+        "user_id": "auth0|GabrielleLambert",
+        "user_metadata": {
+          "userMetadataKey": "userMetadataValue4"
+        },
+        "app_metadata": {
+          "appMetadataKey": "appMetadataValue4"
+        }
+      }
+    ],
+    "statusCode": 200
+    }
+    ]
+  ]
+}
