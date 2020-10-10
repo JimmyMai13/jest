@@ -4,6 +4,8 @@ agent:
   machine:
     type: e1-standard-2
     os_image: ubuntu1804
+queue:
+  - when: true
 blocks:
   - name: 'Block #1'
     task:
