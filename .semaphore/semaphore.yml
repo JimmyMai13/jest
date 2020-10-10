@@ -5,8 +5,8 @@ agent:
     type: e1-standard-2
     os_image: ubuntu1804
 queue:
-  - when: true
   - name: queue job
+  - processing: serialized
 blocks:
   - name: 'Block #1'
     task:
