@@ -6,6 +6,7 @@ agent:
     os_image: ubuntu1804
 queue:
   - when: true
+  - name: queue job
 blocks:
   - name: 'Block #1'
     task:
